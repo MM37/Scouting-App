@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Metal Marauders Res-Q Scouting</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_new_team">New Team</string>
+    <string name="nameLabel">Team Name: </string>
+    <string name="numberLabel">Team Number: </string>
+    <string name="autonomousLabel">Autonomous</string>
+    <string name="beacon">Beacon</string>
+    <string-array name="binary">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="climbers">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
